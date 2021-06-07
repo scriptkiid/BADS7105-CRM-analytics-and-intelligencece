@@ -13,11 +13,11 @@
 Association Rule เป็นวิธีการหาว่าเมื่อซื้อสินค้าชิ้นไหนและจะซื้อชิ้นไหนตามมาด้วย (A -> B) 
 จากการสร้าง model สามารถสร้างกฎออกมาได้ถึงหลายแสนกฎ แต่ที่สนใจจะแบ่งออกเป็น 2 รูปแบบ คือ
 1. เมื่อซื้อสินค้า 1 ชิ้นแล้วชิ้นถัดไปจะซื้ออะไร โดยมีค่า Confidence > 0.5 และ Lift > 1.05
-![Association Rule 1 item](./images/Association_Rule_1_item.jpg)
+![Association Rule 1 item](./images/Association_Rule_1_item.JPG)
 พบว่าได้กฎของการซื้อสินค้า 1 ชิ้นและซื้ออีก 1 ชิ้น เช่น ซื้อกะหรี่ปั๊บแล้วจะซื้อน้ำส้มดีโด้ หรือ ซื้อ Lego และจะซื้อต้นไม้ประดับห้อง
 
 2. เมื่อซื้อสินค้า 2 ชิ้นแล้ว 2 ชิ้นถัดไปจะซื้ออะไร โดยมีค่า Confidence > 0.9 และ Lift > 1.35
-![Association Rule 2 items](./images/Association_Rule_2_items.jpg)
+![Association Rule 2 items](./images/Association_Rule_2_items.JPG)
 พบว่าได้กฎของการซื้อสินค้า 2 ชิ้นและซื้ออีก 2 ชิ้น เช่น ซื้อเม็ดมะม่วงหิมพานต์พร้อมเนื้อย่างแล้วจะซื้อหมูแดดเดียวและเนื้อวากิว
 
 ## Collaborative Filtering Model
