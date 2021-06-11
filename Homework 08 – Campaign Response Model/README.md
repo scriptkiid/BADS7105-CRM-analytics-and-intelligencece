@@ -21,6 +21,7 @@ Retail Data 2 ไฟล์
 
 ## Result
 - Logistic Regression
+
 | model | resampler | train-mean | train-min | train-max | test-mean | test-min | test-max |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | logistic | n/a	        | 0.729881 | 0.702982 | 0.750309 | 0.734630 | 0.637293 | 0.897677 |
@@ -30,13 +31,13 @@ Retail Data 2 ไฟล์
 | logistic | smote-tomek	| 0.749581 | 0.713968 | 0.769619 | 0.700381 | 0.634323 | 0.797576 |
 
 - XGBoots
+
 | model | resampler | train-mean | train-min | train-max | test-mean | test-min | test-max |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | xgboost | n/a	            | 0.944305 | 0.940354 | 0.946454 | 0.709524 | 0.613217 | 0.899374 |
 | xgboost | undersampler	| 0.982189 | 0.978072 | 0.984936 | 0.702638 | 0.617733 | 0.863163 |
 | xgboost | oversampler	    | 0.974203 | 0.972987 | 0.975349 | 0.708742 | 0.619714 | 0.896726 |
 | xgboost | smote	        | 0.970229 | 0.966980 | 0.977068 | 0.689306 | 0.602769 | 0.886052 |
-| xgboost | smote-tomek	    | 0.970314 | 0.968041 | 0.977102 | 0.688751 | 0.602322 | 0.879686 |
 
 ## Conclutions
 จากการทดลองพบว่า
