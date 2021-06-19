@@ -1,8 +1,17 @@
 ## Design Thinking
-![Customer Journey](1-Customer-Journey.png)
+![Cover](./images/0_Cover.jpg)
 
-## Fixing Customer Journey with Data Analytics
-![Fixing Customer Journey with Data Analytics](2-Fixing-Customer-Journey-with-Data-Analytics.png)
+## Empathize
+![Empathize](./images/1_Empathize.jpg)
 
-## Collecting Data throughout Customer Journey
-![Collecting Data throughout Customer Journey](3-Collecting-Data-throughout-Customer-Journey.png)
+## Define
+![Define](./images/2_Define.jpg)
+
+## Ideate
+![Ideate](./images/3_Ideate.jpg)
+
+## Prototype
+![Prototype](./images/4_Prototype.jpg)
+
+## Test
+![Test](./images/5_Test.jpg)
